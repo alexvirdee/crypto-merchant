@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'bitpay-blue': '#2240C4',
+        'bitpay-blue': '#2A3F90',
       },
     },
   },
